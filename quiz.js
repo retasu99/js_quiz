@@ -16,7 +16,7 @@ const quiz = [
       '星のカービ'],
     correct: 'MOTHER2'
   }, {
-    question: 'ファイナルファンタジーⅣの主人公の名前は？',
+    question: 'ファイナルファンタジーⅣの主人公の名前は誰？',
     answers: [
       'フリオニール', 
       'クラウド', 

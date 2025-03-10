@@ -26,7 +26,7 @@ const quiz = [
   }
 ];
 
-const quizLength = quiz.length; //配列question（クイズの問題数）をquizLengthという名前で定義する
+const quizLength = quiz.length; //配列question（クイズの問題数）をquizLengthという名前で定義する test
 let quizIndex = 0; //クイズの出題をwhile文で反復する際に使う
 let score =0; //正解のボタンをクリックした回数
 
